@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DinMinnesBank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dc1729da0778a4642547a8f666aaa40fdc715fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("DinMinnesBank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DinMinnesBank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
