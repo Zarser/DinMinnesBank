@@ -1,0 +1,14 @@
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\bin\Debug\net8.0\DinMinnesBank.exe
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\bin\Debug\net8.0\DinMinnesBank.deps.json
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\bin\Debug\net8.0\DinMinnesBank.runtimeconfig.json
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\bin\Debug\net8.0\DinMinnesBank.dll
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\bin\Debug\net8.0\DinMinnesBank.pdb
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.AssemblyInfoInputs.cache
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.AssemblyInfo.cs
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.csproj.CoreCompileInputs.cache
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.dll
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\refint\DinMinnesBank.dll
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.pdb
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.genruntimeconfig.cache
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\ref\DinMinnesBank.dll
