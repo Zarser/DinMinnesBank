@@ -1,0 +1,42 @@
++---------------------+
+|      Uppgift        |
++---------------------+
+| + Titel: string     |
+| + Förfallodatum: DateTime |
+| + ÄrKlar: bool       |
+| + Projekt: string    |
++---------------------+
+| + ToString(): string |
+| + FromString(string): Uppgift |
++---------------------+
+
++-----------------------------------+
+|       Uppgiftshanterare           |
++-----------------------------------+
+| - tasks: List<Uppgift>            |
+| - filePath: string                |
++-----------------------------------+
+| + LäggTillUppgift(uppgift: Uppgift) |
+| + TaBortUppgift(index: int)       |
+| + UppdateraUppgift(index: int, uppgift: Uppgift) |
+| + MarkeraSomKlar(index: int)      |
+| + SparaUppgifter()                |
+| + LaddaUppgifter()                |
+| + GetSortedTasks(sortBy: string): List<Uppgift> |
++-----------------------------------+
+
++-------------------------+
+|        Program           |
++-------------------------+
+| - taskManager: Uppgiftshanterare |
++-------------------------+
+| + VisaLista()           |
+| + LäggTillNy()          |
+| + Uppdatera()           |
+| + SparaOchStäng()       |
++-------------------------+
+
+Relations:
+-----------
+- Program "använder" (uses) Uppgiftshanterare
+- Uppgiftshanterare "hanterar" (manages) List<Uppgift>
