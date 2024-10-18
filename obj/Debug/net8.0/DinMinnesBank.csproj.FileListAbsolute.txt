@@ -12,3 +12,4 @@ C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\refin
 C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.pdb
 C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.genruntimeconfig.cache
 C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\ref\DinMinnesBank.dll
+C:\Users\Äcklet\source\repos\DinMinnesBank\DinMinnesBank\obj\Debug\net8.0\DinMinnesBank.sourcelink.json

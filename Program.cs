@@ -39,6 +39,10 @@ namespace ToDoListApp
         private List<Task> tasks = new List<Task>(); // Lista över alla uppgifter
         private string filePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "tasks.txt"); // Sökväg till textfilen
 
+        // Kan ändra plast  att spara filen:
+        //Får i såfall ersätta denna 'Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "tasks.txt'.
+        //Till @"C:\Path\To\Your\Desired\Location\tasks.txt" för att spara den på en specifik plats.
+
         // Laddar uppgifter från textfilen om den finns
         public void LoadTasks()
         {
